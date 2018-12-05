@@ -1,6 +1,8 @@
 package com.se.main;
 
-public class pharmacy {
+
+
+public class main {
 
     public static void main(String[] args) {
         
